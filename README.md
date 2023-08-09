@@ -13,7 +13,7 @@
 
 ### Project Information
 
-> Lending Club is a lending platform that lends money to people in need at an interest rate based on their credit history and other factors. In this blog, we will analyze this data and pre-process it based on our need and build a machine learning model that can identify a potential defaulter based on customer history of transactions with Lending Club..
+> Lending Club is a lending platform that lends money to people in need at an interest rate based on their credit history and other factors. In this blog, we will analyze this data and pre-process it based on our need and build a machine learning model that can identify a potential defaulter based on customer history of transactions with Lending Club.
 
 ### Project Background
 
@@ -60,8 +60,8 @@ This project was inspired by UpGrad IITB Programme as a case study for the Machi
 
 ## Contributors
 
-Arjun Kumar
-Aratrika Chaudhury
+- Arjun Kumar
+- Aratrika Chaudhury
 
 
 
